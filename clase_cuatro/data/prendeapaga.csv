@@ -1,0 +1,35 @@
+No,Id,Accion,Pregunta
+1,pa,Prender y apagar,enciende la tele
+2,pa,Prender y apagar,abre la puerta
+3,pa,Prender y apagar,apaga la lampara de la sala
+4,pa,Prender y apagar,cierra la puerta
+5,pa,Prender y apagar,enciende la estufa
+6,pa,Prender y apagar,"Chatbot,enciende la luz de la sala"
+7,pa,Prender y apagar,"Chatbot, apaga la la luz del comedor"
+8,pa,Prender y apagar,"Chatbot, enciende la licuadora"
+9,pa,Prender y apagar,"Chatbot, prende la luz"
+10,pa,Prender y apagar,"Chatbot, prende el ventilador"
+11,pa,Prender y apagar,"Chatbot, Puedes encender la Luz de la sala"
+12,pa,Prender y apagar,"Chatbot, Puedes apagar la luz"
+13,pa,Prender y apagar,"Chatbot, programar encedner  la cafetera a las 6 de la mañana"
+14,pa,Prender y apagar,"Chatbot, programa encender la lavadora a las 7 de la noche"
+15,pa,Prender y apagar,"Chatbot, programa apagar la cafetera a las seis y media"
+16,pa,Prender y apagar,Tengo calor prende la Calefacción
+17,pa,Prender y apagar,Que sueño apaga TV
+18,pa,Prender y apagar,Apaga la luz de cocina
+19,pa,Prender y apagar,Enciende radio en 91.3
+21,pa,Prender y apagar,Chatbot puedes prender el televisor
+22,pa,Prender y apagar,chatbot puedes prender el aire
+23,pa,Prender y apagar,chatbot puedes apagar todas las luces
+24,pa,Prender y apagar,chatbot puedes correr las persinas
+25,pa,Prender y apagar,chatbot  prende la computadora
+30,pa,Prender y apagar,chatbot prende la licuadora
+31,pa,Prender y apagar,chabot prende la xbox
+32,pa,Prender y apagar,chtabot prende la play station
+33,pa,Prender y apagar,chatbot apaga las consolas
+34,pa,Prender y apagar,chatbot apaga la licuadora
+35,pa,Prender y apagar,podrías apagar la luz de LUGAR_DE_LA_CASA
+36,pa,Prender y apagar,¿sabes si la luz de LUGAR_DE_LA_CASA está apagada?
+37,pa,Prender y apagar,¿sabes si la luz de LUGAR_DE_LA_CASA está encendida?
+38,pa,Prender y apagar,Apaga el APARATO_ELECTRICO
+39,pa,Prender y apagar,Enciende el APARATO_ELECTRICO

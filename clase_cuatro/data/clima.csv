@@ -1,0 +1,26 @@
+No,Id,Accion,Pregunta
+1,cl,Clima,¿va a llover hoy?
+2,cl,Clima,¿va a estar soleado?
+3,cl,Clima,dame el pronostico del clima de hoy
+4,cl,Clima,¿mañana lloverá?
+5,cl,Clima,dame el clima
+6,cl,Clima,"chatbot, va a llover hoy"
+7,cl,Clima,"Chatbot, será soleado el día"
+8,cl,Clima,"Chatbot, va a salir el sol"
+9,cl,Clima,"Chatbot, cuál es el clima de hoy"
+10,cl,Clima,"Chatbot, a qué hora obscurece"
+11,cl,Clima,"Chatbot, Llovera hoy?"
+12,cl,Clima,"Chatbot, cual será la temperatura para hoy?"
+13,cl,Clima,"Chatbot, debo de llevar paraguas?"
+14,cl,Clima,"Chatbot, cual es el clima hoy?"
+15,cl,Clima,"Chatbot, cuál es el tiempo?"
+16,cl,Clima,quiero ir correr como esta  el dia?
+17,cl,Clima,cuanto dura esta lluvia?
+18,cl,Clima,por la tarde llovera ?
+19,cl,Clima,hara frio hoy ?
+20,cl,Clima,dame el clima de sabado?
+35,cl,Clima,¿DIA va a llover?
+36,cl,Clima,¿cuál es la máxima temperatura para DIA?
+37,cl,Clima,¿cómo está la contaminación?
+38,cl,Clima,¿Cómo estará el clima a las HORA?
+39,cl,Clima,¿cuál es la mínima temperatura para DIA?

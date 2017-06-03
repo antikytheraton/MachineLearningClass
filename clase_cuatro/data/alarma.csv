@@ -1,0 +1,30 @@
+No,Id,Accion,Pregunta
+1,al,Alarma,despiertame a las 8:30
+2,al,Alarma,programa una alarma a las 3:00
+3,al,Alarma,avisame cuando sea medio día
+4,al,Alarma,suena la alarma a las 4:04
+5,al,Alarma,enciende la alarma a media noche
+6,al,Alarma,"Chatbot, programa un alarma a las 10 AM"
+7,al,Alarma,"Chatbot, apaga la alarma"
+8,al,Alarma,"Chatbot, pospon la alarma 10 minutos"
+9,al,Alarma,"Chatbot, cancela la alarma"
+10,al,Alarma,"Chatbot, agrega una alarma a las 10 AM"
+11,al,Alarma,"Chatbot, puedes enceder la alarma a  las 7:00 de la mañana"
+12,al,Alarma,"Chatbot, enciende la alarma a las 6:30 de lunes a viernes"
+13,al,Alarma,"Chatbot, Desconectar el domingo todas las alarmas de mañana antes de las 9:00"
+14,al,Alarma,"Chatbot, agregar una alarma a las 13:30 horas"
+15,al,Alarma,"Chatbot, Agregar una alarma cada seis horas para hoy"
+21,al,Alarma,"chatbot, programa una alarma para el dia de mañan a  la 13:00"
+22,al,Alarma,"chatbot, cambia la alarma del jueves "
+23,al,Alarma,chatbot programa una alarma dentro de dos dias a las 23:00
+24,al,Alarma,"chatbot, agrega una alarma par el domingo 4 de junio a las 9:00"
+25,al,Alarma,"chatbot, agregame una alarma para mañana a las 7:00"
+31,al,Alarma,chatbot despiertame a las 7:30 a.m
+32,al,Alarma,chatbot haz soonar una alarma cada 5 min depues del medio dia
+33,al,Alarma,chatbot hablame a las 5 para comer
+34,al,Alarma,chatbot recuerdame la hora de mi serie favorita
+35,al,Alarma,Recuerdame que DIA a las HORA ACCION
+36,al,Alarma,Activa la alarma a las HORA
+37,al,Alarma,Pon la alarma a las HORA
+38,al,Alarma,Dile a NOMBRE que ACCION a las HORA
+39,al,Alarma,Recuerdame ACCION DIA a las HORA
